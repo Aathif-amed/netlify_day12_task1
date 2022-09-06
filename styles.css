@@ -1,0 +1,19 @@
+body {
+  background-color: #cad2c5;
+}
+.bc {
+  background-color: #353535 !important;
+  border-radius: 20px;
+}
+i {
+  color: white;
+}
+p {
+  color: white;
+}
+.container {
+  margin-left: 10% !important;
+}
+.card-text {
+  color: gray;
+}
